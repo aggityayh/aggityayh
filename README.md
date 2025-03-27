@@ -25,7 +25,7 @@ Saya suka membangun hal-hal yang berdampak dan terus belajar hal baru!
 | C             | Flutter       | Swagger       | Postman   |
 | HTML          | Scikit        | Wireshark     | ThunderClient|
 | CSS           | JUnit         | Prisma        | Insomnia  |
-| Dart          | PyTorch         | JMeter        | Draw.io  |
+| Dart          | Bootstrap     | JMeter        | Draw.io  |
 
 ---
 
