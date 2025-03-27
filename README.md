@@ -6,9 +6,9 @@
 # 👋 Hi, I'm Aggitya Yosafat Hutabarat!
 
 ## 🧭 Introduction
-Saya adalah seorang mahasiswa yang antusias dalam bidang teknologi.  
-Saat ini saya fokus mempelajari data dan pengembangan proyek digital.  
-Saya suka membangun hal-hal yang berdampak dan terus belajar hal baru!
+Currently a student @ Universitas Indonesia with a strong passion for technology.
+I am focused on exploring data and developing digital projects.
+I am actively building my knowledge in artificial intelligence, its real-world impact, and continuously seeking to learn new things.
 
 ---
 
