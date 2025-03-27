@@ -59,8 +59,6 @@ I am actively building my knowledge in artificial intelligence, its real-world i
 
 ---
 
-## 🎨 GIF / Banner (Optional)
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Fun Coding GIF">
 </p>
